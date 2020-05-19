@@ -5,7 +5,7 @@ The Johnson-Lindenstrauss-Lemma computes the theoretical minimum of dimensions f
 This notebook examines the effect of dimensionality reduction on accuracy and compares distances between data points of original and projected feature space.
 
 ### Effect of dimensionality reduction on accuracy
-![alt text](screenshots/model_accuracy.png "Model accuracy")
+![alt text](screenshots/odel_accuracy.png "Model accuracy")
 
 ### Ratio of squared distances in original and projected feature space
-![alt text](screenshots/squared_distance_rates.png "Squared distance rates")
+![alt text](screenshots/quared_distance_rates.png "Squared distance rates")
